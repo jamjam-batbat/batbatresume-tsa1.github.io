@@ -37,8 +37,9 @@ ul {
     float: left;
     display:flex;
     justify-content:center;
+    width: 17%;
     margin-top:1%;
-    margin-right:2.5%;
+    margin-right:1.25%;
 
     h1 {
         margin: 5px;
@@ -59,7 +60,8 @@ ul {
 
 #resume {
     float:left;
-    width:75%;
+    width:80%;
+    margin-left: 1.25%;
     div {
         div {
             img {
@@ -88,9 +90,13 @@ ul {
 }
 
 @media screen and (max-width:1008px) {
-    #divButton {width: 100%;}
+    #divButton {
+        width: 100%;
+        margin-right: 0;
+    }
     #resume {
         width: 100%;
+        margin-left: 0;
         div {
             div{
                 img {
