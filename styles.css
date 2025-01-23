@@ -62,7 +62,7 @@ ul {
     float:left;
     width:65%;
     margin-left: 1.25%;
-    padding: .5em;
+    padding: .5em !important;
     border: .25em solid #d41d1d;
     div {
         div {
