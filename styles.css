@@ -62,7 +62,9 @@ ul {
     float:left;
     width:80%;
     margin-left: 1.25%;
-    border-left: .25em solid #d41d1d;
+    border-left-width: .5em;
+    border-left-style: solid; 
+    border-left-color: #d41d1d;
     div {
         div {
             img {
