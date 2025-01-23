@@ -62,7 +62,7 @@ ul {
     float:left;
     width:65%;
     margin-left: 1.25%;
-    padding: .5em !important;
+    padding: 1em;
     border: .25em solid hsl(0, 76%, 47%);
     border-radius: 5px;
     div {
