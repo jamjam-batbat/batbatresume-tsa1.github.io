@@ -60,8 +60,9 @@ ul {
 
 #resume {
     float:left;
-    width:80%;
+    width:70%;
     margin-left: 1.25%;
+    padding: .5%;
     border: .5em solid #d41d1d;
     div {
         div {
