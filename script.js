@@ -17,4 +17,5 @@ function bgChange() {
         hr[i].style.backgroundColor = "hsl(" + hue2 + ",76%,47%)";
     }
     document.getElementById("button").style.background = "hsl(" + hue2 + ",76%,47%)";
+    document.getElementbyId("resume").style.border = ".25em solid hsl(" + hue2 + ",76%,47%)";
 }
