@@ -126,4 +126,5 @@ ul {
 
 @media screen and (max-width:600px) {
     body {font-size: .9em;}
+    #resume {border-left-style: none;}
 }
