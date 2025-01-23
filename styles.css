@@ -62,9 +62,7 @@ ul {
     float:left;
     width:80%;
     margin-left: 1.25%;
-    border-width: .5em;
-    border-style: solid; 
-    border-color: #d41d1d;
+    border: .5em solid #d41d1d;
     div {
         div {
             img {
@@ -126,5 +124,5 @@ ul {
 
 @media screen and (max-width:600px) {
     body {font-size: .9em;}
-    #resume {border-style: none;}
+    #resume {border: 0;}
 }
