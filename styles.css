@@ -63,7 +63,7 @@ ul {
     width:65%;
     margin-left: 1.25%;
     padding: .5em !important;
-    border: .25em solid #d41d1d;
+    border: .25em solid hsl(0, 76%, 47%);
     border-radius: 5px;
     div {
         div {
